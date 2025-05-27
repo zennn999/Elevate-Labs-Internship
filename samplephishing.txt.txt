@@ -1,0 +1,17 @@
+From: support@netflix-security.com
+To: user@example.com
+Subject: Reset Your Netflix Password Immediately
+
+Dear Netflix User,
+
+We detected multiple failed login attempts to your Netflix account from a suspicious device.
+
+For your security, we’ve temporarily locked your account. Please reset your password immediately to restore access:
+
+Reset your password now:
+http://netflix.com.account-recovery-reset.com
+
+If you do not act within 24 hours, your account will be permanently locked.
+
+Thank you for your attention,
+Netflix Security Team
